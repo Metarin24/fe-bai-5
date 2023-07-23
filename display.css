@@ -1,0 +1,25 @@
+span{
+    background: orange;
+    border: 1px solid #000;
+}
+.inline{
+    display: inline;
+    width: 200px;
+    height: 100px;
+    padding: 50px 30px 50px 30px;
+    margin: 50px;
+}
+.block{
+    display: block;
+    width: 200px;
+    height: 100px;
+    padding: 50px 30px 50px 30px;
+    margin: 50px;
+}
+.inline-block{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    padding: 50px;
+    margin: 50px;
+}

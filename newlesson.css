@@ -1,0 +1,16 @@
+.list{
+    list-style-type: none;
+}
+table{
+    border-collapse: collapse;
+}
+table, th, td{
+    border: 1px solid #1e1b1b;
+}
+th, td{
+    padding: 10px;
+}
+th{
+    background-color: orange;
+    color:white;
+}
